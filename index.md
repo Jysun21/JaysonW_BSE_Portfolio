@@ -5,7 +5,7 @@ I am working on a video game emulator using retropie with custom modifications
 |:--:|:--:|:--:|:--:|
 | Jayson W | CHS | Mechanical Engineering and Software | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://images.techhive.com/images/article/2017/04/relax-100718429-large.jpg)
   
 # Final Milestone
 (Not completed yet)
