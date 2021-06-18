@@ -5,7 +5,9 @@ I am working on a video game emulator using retropie with custom modifications
 |:--:|:--:|:--:|:--:|
 | Jayson W | CHS | Mechanical Engineering and Software | Incoming Junior
 
-![Headstone Image](https://images.techhive.com/images/article/2017/04/relax-100718429-large.jpg)
+<html>
+  <img src="https://raw.githubusercontent.com/Jysun21/JaysonW_BSE_Portfolio/gh-pages/thingy.JPG">
+</html>
   
 # Final Milestone
 (Not completed yet)
