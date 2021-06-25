@@ -15,7 +15,8 @@ I am working on a video game emulator using retropie with custom modifications
 ![Final Milestone](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst2.depositphotos.com%2F1054979%2F7093%2Fv%2F950%2Fdepositphotos_70934439-stock-illustration-not-completed-stamp.jpg&f=1&nofb=1)
 
 # Second Milestone
-(Not completed yet)
+
+My second milestone was implementing a Godot emulator to the RetroPie system. First I needed to get Wifi which I went through many solutions and yet still they didn't work. For example, I thought the problem was that the Raspberry Pi could only connect to a 2.4 ghz Wifi network, but even that didn't work. In the end, I just chose to go with an ethernet cable. After that I cloned the github with all the Godot emulator code into my RetroPie and tranferred a default game from Godot to the RetroPie.
 
 ![Second Milestone](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst2.depositphotos.com%2F1054979%2F7093%2Fv%2F950%2Fdepositphotos_70934439-stock-illustration-not-completed-stamp.jpg&f=1&nofb=1)
   
