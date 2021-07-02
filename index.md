@@ -10,7 +10,8 @@ I am working on a video game emulator using retropie with custom modifications
 </html>
   
 # Final Milestone
-(Not completed yet)
+
+My final milestone was making a game to run on the Godot emulator on the RetroPie system. First I needed to figure out what I wanting to do with Godot, so I thought about it and settled on a base 2d rpg like game. I then looked through the Godot documentation and tutorials to familiarize and help me make this game. Then I had to make sprites for the enemy and for the player. And last, I added the code into the game. My first real problem I ran into was that when I exported the game to the Raspeberry Pi it always showed the player as a big black box. But I soon figured out that it was because the texture spritesheet for the player was too long, so I just compacted the image and fixed the issue. 
 
 ![Final Milestone](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst2.depositphotos.com%2F1054979%2F7093%2Fv%2F950%2Fdepositphotos_70934439-stock-illustration-not-completed-stamp.jpg&f=1&nofb=1)
 
